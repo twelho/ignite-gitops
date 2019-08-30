@@ -18,9 +18,9 @@ spec:
   storage: {}
 status:
   image:
-    id: null
-    size: 0B
+    id: oci://docker.io/weaveworks/ignite-ubuntu@sha256:ad984fa5f6f2db55a0a48860d263a02a0f77aee3bbefa0d71648b4bc287ac13c
+    size: 231256502B
   kernel:
-    id: null
-    size: 0B
+    id: oci://docker.io/weaveworks/ignite-kernel@sha256:18ee1005bb3881faf09059038eca8b298d9d7598cde675c4a900e275fe0a2454
+    size: 51377512B
   running: true
