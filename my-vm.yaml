@@ -23,4 +23,4 @@ status:
   kernel:
     id: oci://docker.io/weaveworks/ignite-kernel@sha256:18ee1005bb3881faf09059038eca8b298d9d7598cde675c4a900e275fe0a2454
     size: 51377512B
-  running: true
+  running: false
